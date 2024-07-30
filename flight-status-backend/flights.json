@@ -1,0 +1,581 @@
+{
+    "data": [
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "JL",
+          "icao": "JTL",
+          "name": "Jet Linx Aviation"
+        },
+        "arrival": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Internacional Benito Juarez",
+          "baggage": null,
+          "delay": null,
+          "estimated": "2024-08-21T07:00:00+00:00",
+          "estimated_runway": null,
+          "gate": null,
+          "iata": "MEX",
+          "icao": "MMMX",
+          "scheduled": "2024-08-21T07:00:00+00:00",
+          "terminal": "2",
+          "timezone": "America/Mexico_City"
+        },
+        "departure": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Narita International Airport",
+          "delay": 10,
+          "estimated": "2024-08-21T09:35:00+00:00",
+          "estimated_runway": null,
+          "gate": null,
+          "iata": "NRT",
+          "icao": "RJAA",
+          "scheduled": "2024-08-21T09:35:00+00:00",
+          "terminal": "1",
+          "timezone": "Asia/Tokyo"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "am",
+            "airline_icao": "amx",
+            "airline_name": "aeromexico",
+            "flight_iata": "am57",
+            "flight_icao": "amx57",
+            "flight_number": "57"
+          },
+          "iata": "JL8200",
+          "icao": "JTL8200",
+          "number": "8200"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "scheduled",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "SQ",
+          "icao": "SIA",
+          "name": "Singapore Airlines"
+        },
+        "arrival": {
+          "actual": "2024-08-21T06:54:00+00:00",
+          "actual_runway": "2024-08-21T06:54:00+00:00",
+          "airport": "Auckland International",
+          "baggage": "DTB2",
+          "delay": null,
+          "estimated": "2024-08-21T07:05:00+00:00",
+          "estimated_runway": "2024-08-21T06:54:00+00:00",
+          "gate": "30",
+          "iata": "AKL",
+          "icao": "NZAA",
+          "scheduled": "2024-08-21T07:05:00+00:00",
+          "terminal": "D",
+          "timezone": "Pacific/Auckland"
+        },
+        "departure": {
+          "actual": "2024-08-21T06:05:00+00:00",
+          "actual_runway": "2024-08-21T06:05:00+00:00",
+          "airport": "Wellington International",
+          "delay": 5,
+          "estimated": "2024-08-21T06:00:00+00:00",
+          "estimated_runway": "2024-08-21T06:05:00+00:00",
+          "gate": "15",
+          "iata": "WLG",
+          "icao": "NZWN",
+          "scheduled": "2024-08-21T06:00:00+00:00",
+          "terminal": null,
+          "timezone": "Pacific/Auckland"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "nz",
+            "airline_icao": "anz",
+            "airline_name": "air new zealand",
+            "flight_iata": "nz402",
+            "flight_icao": "anz402",
+            "flight_number": "402"
+          },
+          "iata": "SQ4460",
+          "icao": "SIA4460",
+          "number": "4460"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "landed",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "VA",
+          "icao": "VOZ",
+          "name": "Virgin Australia"
+        },
+        "arrival": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Melbourne - Tullamarine Airport",
+          "baggage": null,
+          "delay": null,
+          "estimated": "2024-08-21T09:35:00+00:00",
+          "estimated_runway": null,
+          "gate": "9",
+          "iata": "MEL",
+          "icao": "YMML",
+          "scheduled": "2024-08-21T09:35:00+00:00",
+          "terminal": "3",
+          "timezone": "Australia/Melbourne"
+        },
+        "departure": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Sydney Kingsford Smith Airport",
+          "delay": null,
+          "estimated": "2024-08-21T08:00:00+00:00",
+          "estimated_runway": null,
+          "gate": "36",
+          "iata": "SYD",
+          "icao": "YSSY",
+          "scheduled": "2024-08-21T08:00:00+00:00",
+          "terminal": "2",
+          "timezone": "Australia/Sydney"
+        },
+        "flight": {
+          "codeshared": null,
+          "iata": "VA816",
+          "icao": "VOZ816",
+          "number": "816"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "scheduled",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "KY",
+          "icao": "KNA",
+          "name": "Kunming Airlines"
+        },
+        "arrival": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Dali",
+          "baggage": null,
+          "delay": null,
+          "estimated": "2024-08-21T11:40:00+00:00",
+          "estimated_runway": null,
+          "gate": null,
+          "iata": "DLU",
+          "icao": "ZPDL",
+          "scheduled": "2024-08-21T11:40:00+00:00",
+          "terminal": null,
+          "timezone": "Asia/Shanghai"
+        },
+        "departure": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Xianyang",
+          "delay": null,
+          "estimated": "2024-08-21T09:25:00+00:00",
+          "estimated_runway": null,
+          "gate": null,
+          "iata": "XIY",
+          "icao": "ZLXY",
+          "scheduled": "2024-08-21T09:25:00+00:00",
+          "terminal": "3",
+          "timezone": "Asia/Shanghai"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "tv",
+            "airline_icao": "tba",
+            "airline_name": "tibet airlines",
+            "flight_iata": "tv6011",
+            "flight_icao": "tba6011",
+            "flight_number": "6011"
+          },
+          "iata": "KY6611",
+          "icao": "KNA6611",
+          "number": "6611"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "scheduled",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "KE",
+          "icao": "KAL",
+          "name": "Korean Air"
+        },
+        "arrival": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Seoul (Incheon)",
+          "baggage": null,
+          "delay": null,
+          "estimated": "2024-08-21T08:15:00+00:00",
+          "estimated_runway": null,
+          "gate": null,
+          "iata": "ICN",
+          "icao": "RKSI",
+          "scheduled": "2024-08-21T08:15:00+00:00",
+          "terminal": "2",
+          "timezone": "Asia/Seoul"
+        },
+        "departure": {
+          "actual": null,
+          "actual_runway": null,
+          "airport": "Hanoi",
+          "delay": null,
+          "estimated": "2024-08-21T04:50:00+00:00",
+          "estimated_runway": null,
+          "gate": null,
+          "iata": "HAN",
+          "icao": "VVNB",
+          "scheduled": "2024-08-21T04:50:00+00:00",
+          "terminal": "2",
+          "timezone": "Asia/Ho_Chi_Minh"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "cz",
+            "airline_icao": "csn",
+            "airline_name": "china southern airlines",
+            "flight_iata": "cz366",
+            "flight_icao": "csn366",
+            "flight_number": "366"
+          },
+          "iata": "KE5966",
+          "icao": "KAL5966",
+          "number": "5966"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "scheduled",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "QF",
+          "icao": "QFA",
+          "name": "Qantas"
+        },
+        "arrival": {
+          "actual": "2024-08-21T06:30:00+00:00",
+          "actual_runway": "2024-08-21T06:30:00+00:00",
+          "airport": "Brisbane",
+          "baggage": "B1",
+          "delay": null,
+          "estimated": "2024-08-21T06:45:00+00:00",
+          "estimated_runway": "2024-08-21T06:30:00+00:00",
+          "gate": "24",
+          "iata": "BNE",
+          "icao": "YBBN",
+          "scheduled": "2024-08-21T06:45:00+00:00",
+          "terminal": "D",
+          "timezone": "Australia/Brisbane"
+        },
+        "departure": {
+          "actual": "2024-08-21T05:45:00+00:00",
+          "actual_runway": "2024-08-21T05:45:00+00:00",
+          "airport": "Melbourne - Tullamarine",
+          "delay": null,
+          "estimated": "2024-08-21T05:30:00+00:00",
+          "estimated_runway": "2024-08-21T05:45:00+00:00",
+          "gate": "20",
+          "iata": "MEL",
+          "icao": "YMML",
+          "scheduled": "2024-08-21T05:30:00+00:00",
+          "terminal": "1",
+          "timezone": "Australia/Melbourne"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "aa",
+            "airline_icao": "aal",
+            "airline_name": "American Airlines",
+            "flight_iata": "aa7389",
+            "flight_icao": "aal7389",
+            "flight_number": "7389"
+          },
+          "iata": "QF400",
+          "icao": "QFA400",
+          "number": "400"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "landed",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "EK",
+          "icao": "UAE",
+          "name": "Emirates"
+        },
+        "arrival": {
+          "actual": "2024-08-21T06:20:00+00:00",
+          "actual_runway": "2024-08-21T06:20:00+00:00",
+          "airport": "Dubai International",
+          "baggage": "B2",
+          "delay": null,
+          "estimated": "2024-08-21T06:30:00+00:00",
+          "estimated_runway": "2024-08-21T06:20:00+00:00",
+          "gate": "22",
+          "iata": "DXB",
+          "icao": "OMDB",
+          "scheduled": "2024-08-21T06:30:00+00:00",
+          "terminal": "3",
+          "timezone": "Asia/Dubai"
+        },
+        "departure": {
+          "actual": "2024-08-21T03:20:00+00:00",
+          "actual_runway": "2024-08-21T03:20:00+00:00",
+          "airport": "Heathrow",
+          "delay": null,
+          "estimated": "2024-08-21T03:00:00+00:00",
+          "estimated_runway": "2024-08-21T03:20:00+00:00",
+          "gate": "5",
+          "iata": "LHR",
+          "icao": "EGLL",
+          "scheduled": "2024-08-21T03:00:00+00:00",
+          "terminal": "4",
+          "timezone": "Europe/London"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "qf",
+            "airline_icao": "qfa",
+            "airline_name": "Qantas",
+            "flight_iata": "qf202",
+            "flight_icao": "qfa202",
+            "flight_number": "202"
+          },
+          "iata": "EK30",
+          "icao": "UAE30",
+          "number": "30"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "landed",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "AA",
+          "icao": "AAL",
+          "name": "American Airlines"
+        },
+        "arrival": {
+          "actual": "2024-08-21T06:40:00+00:00",
+          "actual_runway": "2024-08-21T06:40:00+00:00",
+          "airport": "John F Kennedy International",
+          "baggage": "5",
+          "delay": null,
+          "estimated": "2024-08-21T06:50:00+00:00",
+          "estimated_runway": "2024-08-21T06:40:00+00:00",
+          "gate": "10",
+          "iata": "JFK",
+          "icao": "KJFK",
+          "scheduled": "2024-08-21T06:50:00+00:00",
+          "terminal": "8",
+          "timezone": "America/New_York"
+        },
+        "departure": {
+          "actual": "2024-08-21T04:10:00+00:00",
+          "actual_runway": "2024-08-21T04:10:00+00:00",
+          "airport": "Los Angeles International",
+          "delay": null,
+          "estimated": "2024-08-21T04:00:00+00:00",
+          "estimated_runway": "2024-08-21T04:10:00+00:00",
+          "gate": "14",
+          "iata": "LAX",
+          "icao": "KLAX",
+          "scheduled": "2024-08-21T04:00:00+00:00",
+          "terminal": "4",
+          "timezone": "America/Los_Angeles"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "jl",
+            "airline_icao": "jal",
+            "airline_name": "Japan Airlines",
+            "flight_iata": "jl7082",
+            "flight_icao": "jal7082",
+            "flight_number": "7082"
+          },
+          "iata": "AA30",
+          "icao": "AAL30",
+          "number": "30"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "landed",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "LH",
+          "icao": "DLH",
+          "name": "Lufthansa"
+        },
+        "arrival": {
+          "actual": "2024-08-21T06:50:00+00:00",
+          "actual_runway": "2024-08-21T06:50:00+00:00",
+          "airport": "Frankfurt International",
+          "baggage": "4",
+          "delay": null,
+          "estimated": "2024-08-21T07:00:00+00:00",
+          "estimated_runway": "2024-08-21T06:50:00+00:00",
+          "gate": "16",
+          "iata": "FRA",
+          "icao": "EDDF",
+          "scheduled": "2024-08-21T07:00:00+00:00",
+          "terminal": "1",
+          "timezone": "Europe/Berlin"
+        },
+        "departure": {
+          "actual": "2024-08-21T04:45:00+00:00",
+          "actual_runway": "2024-08-21T04:45:00+00:00",
+          "airport": "Munich",
+          "delay": null,
+          "estimated": "2024-08-21T04:35:00+00:00",
+          "estimated_runway": "2024-08-21T04:45:00+00:00",
+          "gate": "15",
+          "iata": "MUC",
+          "icao": "EDDM",
+          "scheduled": "2024-08-21T04:35:00+00:00",
+          "terminal": "2",
+          "timezone": "Europe/Berlin"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "ua",
+            "airline_icao": "ual",
+            "airline_name": "United Airlines",
+            "flight_iata": "ua8846",
+            "flight_icao": "ual8846",
+            "flight_number": "8846"
+          },
+          "iata": "LH400",
+          "icao": "DLH400",
+          "number": "400"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "landed",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "AC",
+          "icao": "ACA",
+          "name": "Air Canada"
+        },
+        "arrival": {
+          "actual": "2024-08-21T07:00:00+00:00",
+          "actual_runway": "2024-08-21T07:00:00+00:00",
+          "airport": "Toronto Pearson International",
+          "baggage": "4",
+          "delay": null,
+          "estimated": "2024-08-21T07:15:00+00:00",
+          "estimated_runway": "2024-08-21T07:00:00+00:00",
+          "gate": "C32",
+          "iata": "YYZ",
+          "icao": "CYYZ",
+          "scheduled": "2024-08-21T07:15:00+00:00",
+          "terminal": "1",
+          "timezone": "America/Toronto"
+        },
+        "departure": {
+          "actual": "2024-08-21T06:00:00+00:00",
+          "actual_runway": "2024-08-21T06:00:00+00:00",
+          "airport": "Montreal - Pierre Elliott Trudeau",
+          "delay": null,
+          "estimated": "2024-08-21T05:50:00+00:00",
+          "estimated_runway": "2024-08-21T06:00:00+00:00",
+          "gate": "56",
+          "iata": "YUL",
+          "icao": "CYUL",
+          "scheduled": "2024-08-21T05:50:00+00:00",
+          "terminal": "2",
+          "timezone": "America/Toronto"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "ua",
+            "airline_icao": "ual",
+            "airline_name": "United Airlines",
+            "flight_iata": "ua8012",
+            "flight_icao": "ual8012",
+            "flight_number": "8012"
+          },
+          "iata": "AC400",
+          "icao": "ACA400",
+          "number": "400"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "landed",
+        "live": null
+      },
+      {
+        "aircraft": null,
+        "airline": {
+          "iata": "CA",
+          "icao": "CCA",
+          "name": "Air China"
+        },
+        "arrival": {
+          "actual": "2024-08-21T06:55:00+00:00",
+          "actual_runway": "2024-08-21T06:55:00+00:00",
+          "airport": "Beijing Capital International",
+          "baggage": "3",
+          "delay": null,
+          "estimated": "2024-08-21T07:00:00+00:00",
+          "estimated_runway": "2024-08-21T06:55:00+00:00",
+          "gate": "28",
+          "iata": "PEK",
+          "icao": "ZBAA",
+          "scheduled": "2024-08-21T07:00:00+00:00",
+          "terminal": "3",
+          "timezone": "Asia/Shanghai"
+        },
+        "departure": {
+          "actual": "2024-08-21T05:45:00+00:00",
+          "actual_runway": "2024-08-21T05:45:00+00:00",
+          "airport": "Shanghai Pudong International",
+          "delay": null,
+          "estimated": "2024-08-21T05:35:00+00:00",
+          "estimated_runway": "2024-08-21T05:45:00+00:00",
+          "gate": "9",
+          "iata": "PVG",
+          "icao": "ZSPD",
+          "scheduled": "2024-08-21T05:35:00+00:00",
+          "terminal": "1",
+          "timezone": "Asia/Shanghai"
+        },
+        "flight": {
+          "codeshared": {
+            "airline_iata": "mu",
+            "airline_icao": "ces",
+            "airline_name": "china eastern airlines",
+            "flight_iata": "mu5417",
+            "flight_icao": "ces5417",
+            "flight_number": "5417"
+          },
+          "iata": "CA1584",
+          "icao": "CCA1584",
+          "number": "1584"
+        },
+        "flight_date": "2024-08-21",
+        "flight_status": "landed",
+        "live": null
+      }
+    ]
+  }
+  

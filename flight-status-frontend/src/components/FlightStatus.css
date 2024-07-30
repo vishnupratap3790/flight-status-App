@@ -1,0 +1,113 @@
+.container {
+  text-align: center;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  border: none;
+}
+
+.form-group {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  width: 200px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-size: 16px;
+  border: none;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+  border: none;
+}
+
+.flight-card {
+  background-color: #f8f9fa;
+  border: none;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: 100%;
+  max-width: 600px;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.flight-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.flight-card h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #007bff;
+}
+
+.flight-card p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #495057;
+}
+
+.flight-details {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.flight-section {
+  margin-top: 10px;
+  flex: 1;
+  min-width: 200px;
+}
+
+.flight-section h3 {
+  font-size: 16px;
+  color: #343a40;
+  margin-bottom: 5px;
+}
+
+.flight-section p {
+  margin: 2px 0;
+}
+
+@media (max-width: 600px) {
+  input {
+    width: calc(100% - 30px);
+  }
+  .flight-card {
+    width: 100%;
+  }
+  .flight-details {
+    flex-direction: column;
+  }
+}
